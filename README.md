@@ -1,4 +1,4 @@
-# Quiz_App
+# Quiz App
 
 https://omkarkulkarni2704.github.io/QuizApp/
 
